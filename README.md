@@ -42,3 +42,10 @@ My theme fork: https://github.com/Kompreya/midnight-discord
 
 Moosync: https://github.com/Moosync/Moosync
 Theme: https://github.com/ApplePie420/catppuccin-moosync
+
+VSCode:
+Base theme: https://github.com/sweetpastel/vscode
+My fork: https://github.com/Kompreya/vscode
+Dark.css: https://github.com/DimitrisMilonopoulos/mitsugen/blob/1554c2d72fe5e631a7f37d01179852549b7c8bd7/example/templates/Dark.css
+https://github.com/DimitrisMilonopoulos/mitsugen
+APC Customize: https://github.com/drcika/apc-extension
